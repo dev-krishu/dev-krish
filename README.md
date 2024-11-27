@@ -1,2 +1,4 @@
 # dev-krish
-this is my first r3po
+this is my first repo
+author krishu
+
